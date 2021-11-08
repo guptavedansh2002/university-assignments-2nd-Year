@@ -1,0 +1,6 @@
+name=input("Enter your name: ")
+print("Hello "+(name))
+eng=int(input("Enter marks of English: "))
+chem=int(input("Enter marks of Chemistry: "))
+total=(eng)+(chem)
+print(total)
